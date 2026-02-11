@@ -155,17 +155,17 @@
     <div class="pricing-boxes">
         <div class="box">
             <h4>Starter Website</h4>
-            <p class="price">₹2,999</p>
+            <p class="price">₹800</p>
             <p>1–3 pages<br>Mobile friendly<br>Basic design<br>Email support</p>
         </div>
         <div class="box">
             <h4>Business Website</h4>
-            <p class="price">₹5,999</p>
+            <p class="price">₹1,500</p>
             <p>Up to 6 pages<br>Modern design<br>Contact form<br>SEO basics</p>
         </div>
         <div class="box">
             <h4>Premium Website</h4>
-            <p class="price">₹9,999</p>
+            <p class="price">₹2,500</p>
             <p>Custom design<br>All pages needed<br>Priority support<br>Advanced features</p>
         </div>
     </div>
