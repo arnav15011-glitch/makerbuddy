@@ -181,8 +181,8 @@
     <h3>Let’s Build Your Website</h3>
     <p>Contact me directly to get started:</p>
     
-    <a href="mailto:youremail@example.com">📧 youremail@example.com</a>
-    <a href="https://instagram.com/yourinstausername" target="_blank">📷 Instagram: @yourinstausername</a>
+    <a href="mailto: arnav15042011@gmail.com">📧 arnav15042011@gmail.com</a>
+    <a href="https://instagram.com/yourinstausername" target="_blank">📷 Instagram: @techbuddy_36</a>
 </section>
 
 <footer>
